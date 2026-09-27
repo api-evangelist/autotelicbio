@@ -26,6 +26,8 @@ hosts:
   - contract-discovery
   - well-known
   types:
+  - PrivacyPolicy
+  - Newsroom
   - Website
   serves: []
   registrable_domain: autotelic.co.kr
